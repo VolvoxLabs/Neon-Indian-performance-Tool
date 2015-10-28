@@ -12,5 +12,13 @@ Nvidia GeForce 980
 3 x USB Bus
 500GB SSD Drive
 
+## -This setup looks at 5 Kinect sensors - 4xV1 sensors and 1xV2 
+
+When you launch the application you'll notice kinect depth camera windows on left. There you can also specify which window looks through which sensor. Before launching TouchDesigner make sure your system can see all the devices ( make sure all are distributed on different USB buses, specifically the V2 needs to run on its own )
+
+Please refer also to the PDF attached // this is what we sent out with the Neon Indian crew on tour.
+
+Please hit us up on info@volvoxlabs.com with any questions
+
 
 

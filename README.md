@@ -2,9 +2,9 @@
 Use this interface to connect and display instance data from 5 Kinect sensors
 
 ## -Hello everyone!
-In this repo you will find a base version of the system we used for Neon Indian Live performance during the CMJ conference in NYC in 2015.
+In this repo you will find a basis version of the system we used for Neon Indian Live performance during the CMJ conference in NYC in 2015.
 
-To use the system you must have a licenced TouchDesigner software.
+To use the system you must have a licenced TouchDesigner software and be familiar with the software.
 This system was tested and ran successfuly on this spec:
 
 Nvidia GeForce 980
@@ -14,9 +14,17 @@ Nvidia GeForce 980
 
 ## -This setup looks at 5 Kinect sensors - 4xV1 sensors and 1xV2 
 
-When you launch the application you'll notice kinect depth camera windows on left. There you can also specify which window looks through which sensor. Before launching TouchDesigner make sure your system can see all the devices ( make sure all are distributed on different USB buses, specifically the V2 needs to run on its own )
+## -Launch Steps:
 
-## - Please refer also to the PDF attached // this is what we sent out with the Neon Indian crew on tour.
+Before launching TouchDesigner make sure your system can see all the devices in device manager on you PC ( make sure all are distributed on different USB buses, specifically the V2 needs to run on its own )
+
+When you launch the application you'll notice kinect depth camera windows on left. There you can also specify which window looks through which sensor. All other sliders and buttons are self explanatory but we also attached in depth manual for reference.
+
+If you're not seeing all your Kinects make sure first they are visible in device manager, if so you'll need to dive into the network and make sure all the Kinect nodes are assigned to corresponding Kinect sensor
+
+# -Have Fun!
+
+## - Please refer also to the manual attached // NOTE: this is what we sent out with the Neon Indian crew on tour.
 
 Please hit us up on info@volvoxlabs.com with any questions
 

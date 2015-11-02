@@ -18,6 +18,11 @@ Nvidia GeForce 980
 3 x USB Bus
 500GB SSD Drive
 
+Downloads:
+
+TouchDesigner: http://derivative.ca/
+Kinect SDK: http://www.microsoft.com/en-us/download/details.aspx?id=44561
+
 ## -This setup looks at 5 Kinect sensors - 4xV1 sensors and 1xV2 
 
 ## -Launch Steps:
